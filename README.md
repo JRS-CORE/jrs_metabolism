@@ -21,3 +21,12 @@ This resource is part of **[JRS Core](https://github.com/JRS-CORE/jrscore)**, a 
 - Docs: https://docs.jrs-core.com
 - Discord: https://discord.gg/jrscore
 - License: GNU GPL v3
+
+## Contributors
+
+| | |
+|---|---|
+| [**NQ3Z**](https://github.com/NQ3Z) (Jehad Abdulwahab) | Maintainer |
+| [**jrsmatrex**](https://github.com/jrsmatrex) (jrs-alomary) | Zombie events and beehive props |
+| [**gummyantifi**](https://github.com/gummyantifi) (Gummik) | Contributor |
+| [**JRS-CORE**](https://github.com/JRS-CORE) | JRS TEAM |
